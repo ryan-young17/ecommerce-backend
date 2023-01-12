@@ -8,7 +8,7 @@
     "start": "node server.js",
     "env:copy": "cp .env.EXAMPLE .env",
     "db:sync": "node db/sync",
-    "seed": "node seeds/index.js",
+    "db:seed": "node seeds/index",
     "watch": "nodemon server.js"
   },
   "repository": {
