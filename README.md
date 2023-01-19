@@ -1,4 +1,4 @@
-# Challenge 13 - E-Commerce Backend
+# E-Commerce Backend
 
 [Walk-through Video](https://drive.google.com/file/d/18-ETjsaHtJMOlVok0lmBfOYR6lzFsoE2/view)
 
